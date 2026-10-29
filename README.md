@@ -23,11 +23,13 @@ Me gusta construir aplicaciones web completas, de la base de datos a la interfaz
 
 ### 🚀 Proyectos destacados
 
-| Proyecto | Descripción | Stack |
-| -------- | ----------- | ----- |
-| [**gestion-usuarios-roles**](https://github.com/jsonmunoz-dev/gestion-usuarios-roles) | Sistema full stack con login JWT, refresh token en cookie httpOnly y control de acceso por roles (admin / editor / viewer). | React · Node.js · PostgreSQL · Docker |
-| [**api-rest-inventario**](https://github.com/jsonmunoz-dev/api-rest-inventario) | API REST documentada con OpenAPI/Swagger. Movimientos de stock transaccionales que nunca dejan el stock negativo, ni con salidas concurrentes. | Node.js · Express · PostgreSQL · Swagger · Docker |
-| [**dashboard-ventas-sql**](https://github.com/jsonmunoz-dev/dashboard-ventas-sql) | Dashboard analítico con KPIs, tendencia, Pareto y retención por cohortes, calculados íntegramente con SQL. | PostgreSQL · SQL avanzado · React · Recharts |
+Todos tienen una **demo en vivo**: se abren en el navegador sin instalar nada.
+
+| Proyecto                                                                              | Descripción                                                                                                                                    | Stack                                             | Demo                                               |
+| ------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------- | -------------------------------------------------- |
+| [**gestion-usuarios-roles**](https://github.com/jsonmunoz-dev/gestion-usuarios-roles) | Sistema full stack con login JWT, refresh token en cookie httpOnly y control de acceso por roles (admin / editor / viewer).                    | React · Node.js · PostgreSQL · Docker             | [Abrir](https://gestion-usuarios-roles.vercel.app) |
+| [**api-rest-inventario**](https://github.com/jsonmunoz-dev/api-rest-inventario)       | API REST documentada con OpenAPI/Swagger. Movimientos de stock transaccionales que nunca dejan el stock negativo, ni con salidas concurrentes. | Node.js · Express · PostgreSQL · Swagger · Docker | [Abrir](https://api-rest-inventario.vercel.app)    |
+| [**dashboard-ventas-sql**](https://github.com/jsonmunoz-dev/dashboard-ventas-sql)     | Dashboard analítico con KPIs, tendencia, Pareto y retención por cohortes, calculados íntegramente con SQL.                                     | PostgreSQL · SQL avanzado · React · Recharts      | [Abrir](https://dashboard-ventas-sql.vercel.app)   |
 
 ### 📫 Contacto
 
