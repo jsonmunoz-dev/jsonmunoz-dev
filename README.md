@@ -6,7 +6,6 @@ Me gusta construir aplicaciones web completas, de la base de datos a la interfaz
 - 🔭 Trabajo con **React, Node.js y PostgreSQL**
 - 🧮 Me interesa el **SQL analítico**: funciones de ventana, CTEs y cohortes
 - ✅ Cada proyecto incluye **tests**, **CI con GitHub Actions** y **Docker**
-- 🌱 Busco mi práctica profesional y oportunidades como desarrollador junior
 
 ### 🛠️ Stack
 
