@@ -1,6 +1,6 @@
 ## Hola, soy Jheyson Muñoz 👋
 
-Estudiante de **Analista Programador en INACAP Valparaíso**, desde, Valparaíso, Chile 🇨🇱.
+Estudiante de **Analista Programador en INACAP Valparaíso**, desde Valparaíso, Chile 🇨🇱.
 Me gusta construir aplicaciones web completas, de la base de datos a la interfaz, y que estén bien probadas.
 
 - 🔭 Trabajo con **React, Node.js y PostgreSQL**, y en la universidad también con **Java, Python, MySQL y MongoDB**
