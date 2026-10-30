@@ -51,3 +51,4 @@ Todos tienen una **demo en vivo**: se abren en el navegador sin instalar nada.
 
 - ✉️ Email: [mimololx@gmail.com](mailto:mimololx@gmail.com)
 - 🐙 GitHub: [@jsonmunoz-dev](https://github.com/jsonmunoz-dev)
+- 📄 CV: [descargar PDF](CV-Jheyson-Munoz.pdf)
