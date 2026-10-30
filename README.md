@@ -49,6 +49,6 @@ Todos tienen una **demo en vivo**: se abren en el navegador sin instalar nada.
 
 ### 📫 Contacto
 
-- ✉️ Email: [mimololx@gmail.com](mailto:mimololx@gmail.com)
+- ✉️ Email: [Chilecodes2812@hotmail.com](mailto:Chilecodes2812@hotmail.com)
 - 🐙 GitHub: [@jsonmunoz-dev](https://github.com/jsonmunoz-dev)
 - 📄 CV: [descargar PDF](CV-Jheyson-Munoz.pdf)
