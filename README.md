@@ -47,16 +47,6 @@ Todos tienen una **demo en vivo**: se abren en el navegador sin instalar nada.
 | [**api-rest-inventario**](https://github.com/jsonmunoz-dev/api-rest-inventario)       | API REST documentada con OpenAPI/Swagger. Movimientos de stock transaccionales que nunca dejan el stock negativo, ni con salidas concurrentes. | Node.js · Express · PostgreSQL · Swagger · Docker | [Abrir](https://api-rest-inventario.vercel.app)    |
 | [**dashboard-ventas-sql**](https://github.com/jsonmunoz-dev/dashboard-ventas-sql)     | Dashboard analítico con KPIs, tendencia, Pareto y retención por cohortes, calculados íntegramente con SQL.                                     | PostgreSQL · SQL avanzado · React · Recharts      | [Abrir](https://dashboard-ventas-sql.vercel.app)   |
 
-### 🎓 Experiencia académica
-
-En INACAP desarrollé sistemas para casos de negocio reales (código no publicado):
-
-- 🏨 **Sistema para un hotel**
-- 🍾 **Sistema para una botillería**
-- 🪪 **Sistema de registro de ingreso de empleados**
-
-Además trabajé en redes con equipos Cisco y en administración de servidores Linux y Windows Server.
-
 ### 📫 Contacto
 
 - ✉️ Email: [mimololx@gmail.com](mailto:mimololx@gmail.com)
