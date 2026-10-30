@@ -51,4 +51,4 @@ Todos tienen una **demo en vivo**: se abren en el navegador sin instalar nada.
 
 - ✉️ Email: [Chilecodes2812@hotmail.com](mailto:Chilecodes2812@hotmail.com)
 - 🐙 GitHub: [@jsonmunoz-dev](https://github.com/jsonmunoz-dev)
-- 📄 CV: [descargar PDF](CV-Jheyson-Munoz.pdf)
+- 📄 CV: [descargar PDF](https://github.com/jsonmunoz-dev/jsonmunoz-dev/raw/main/CV-Jheyson-Munoz.pdf)
